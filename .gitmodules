@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/shub15/cet-college-finder-with-java
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/shub15/cet-college-finder
